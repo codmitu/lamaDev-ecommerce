@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/lamaDev-ecommerce/static/css/main.a1464689.chunk.css",
+    "main.js": "/lamaDev-ecommerce/static/js/main.70c8a488.chunk.js",
+    "main.js.map": "/lamaDev-ecommerce/static/js/main.70c8a488.chunk.js.map",
+    "runtime-main.js": "/lamaDev-ecommerce/static/js/runtime-main.dddb2ede.js",
+    "runtime-main.js.map": "/lamaDev-ecommerce/static/js/runtime-main.dddb2ede.js.map",
+    "static/js/2.c33a8620.chunk.js": "/lamaDev-ecommerce/static/js/2.c33a8620.chunk.js",
+    "static/js/2.c33a8620.chunk.js.map": "/lamaDev-ecommerce/static/js/2.c33a8620.chunk.js.map",
+    "static/js/3.f0f40c7b.chunk.js": "/lamaDev-ecommerce/static/js/3.f0f40c7b.chunk.js",
+    "static/js/3.f0f40c7b.chunk.js.map": "/lamaDev-ecommerce/static/js/3.f0f40c7b.chunk.js.map",
+    "index.html": "/lamaDev-ecommerce/index.html",
+    "static/css/main.a1464689.chunk.css.map": "/lamaDev-ecommerce/static/css/main.a1464689.chunk.css.map",
+    "static/js/2.c33a8620.chunk.js.LICENSE.txt": "/lamaDev-ecommerce/static/js/2.c33a8620.chunk.js.LICENSE.txt",
+    "static/media/bg.887edfc5.jpg": "/lamaDev-ecommerce/static/media/bg.887edfc5.jpg",
+    "static/media/bg2.017fb228.jpg": "/lamaDev-ecommerce/static/media/bg2.017fb228.jpg",
+    "static/media/img1.61f7d70a.jpg": "/lamaDev-ecommerce/static/media/img1.61f7d70a.jpg",
+    "static/media/img2.90debee8.jpg": "/lamaDev-ecommerce/static/media/img2.90debee8.jpg",
+    "static/media/img3.d7004bf4.jpg": "/lamaDev-ecommerce/static/media/img3.d7004bf4.jpg",
+    "static/media/woman.ef672d7a.png": "/lamaDev-ecommerce/static/media/woman.ef672d7a.png",
+    "static/media/woman1.7d1506d8.png": "/lamaDev-ecommerce/static/media/woman1.7d1506d8.png",
+    "static/media/woman2.3571fcd5.png": "/lamaDev-ecommerce/static/media/woman2.3571fcd5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dddb2ede.js",
+    "static/js/2.c33a8620.chunk.js",
+    "static/css/main.a1464689.chunk.css",
+    "static/js/main.70c8a488.chunk.js"
+  ]
+}
